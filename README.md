@@ -1,19 +1,21 @@
 ## Raymond Jack
 
-Data scientist. In banking since 2008, with analytics experience since 2017. Applied ML and analytics on payment operations, dispute handling, and risk. Currently Data Scientist, AVP at PNC.
+Data scientist. In banking since 2007, with analytics experience since 2017. Applied ML and analytics on payment operations, dispute handling, and risk. Currently Data Scientist, AVP at PNC.
 
 Portfolio and case studies: **[rayzjack.com](https://rayzjack.com)**
 
 ### Selected work
 
-- **[CFPB Complaints Dashboard](https://github.com/rjcb-commits/cfpb_complaints_dashboard)** — comparing recorded monetary-relief outcomes across payment-product categories in public CFPB complaint data. Python + Tableau. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/cfpb-complaints)
-- **[Loan Default Predictor](https://github.com/rjcb-commits/loan_default_predictor)** — LightGBM on public Lending Club data, served as an interactive Streamlit demonstration. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/loan-default)
-- **[NBA Player Archetypes](https://github.com/rjcb-commits/nba_archetypes)** — K-means groups NBA players into eight statistical profiles using per-100-possession and advanced stats. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/nba-archetypes)
-- **[Niner](https://github.com/rjcb-commits/niner_sudoku)** — native Android sudoku, Kotlin + Jetpack Compose. Zero ads, zero permissions, on-device only. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/niner)
+- **[Fraud Alert Triage](https://github.com/rjcb-commits/fraud_alert_triage)**: risk-ranked fraud alert queue, reason codes, and a guardrailed local AI assistant (98% valid notes, zero invented facts). Python, XGBoost, Ollama, Tableau. &nbsp;·&nbsp; [Dashboard](https://public.tableau.com/app/profile/ray.jack/viz/FraudAlertTriage/1-Queue) &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/fraud-alert-triage)
+- **[Lending Club Portfolio Dashboard](https://github.com/rjcb-commits/lending_club_dashboard)**: where $20.9B of consumer loans went, loss triangle, risk vs. return by sub-grade. Python, DuckDB, Tableau.
+- **[CFPB Complaints Dashboard](https://github.com/rjcb-commits/cfpb_complaints_dashboard)**: comparing recorded monetary-relief outcomes across payment-product categories in public CFPB complaint data. Python + Tableau. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/cfpb-complaints)
+- **[Loan Default Predictor](https://github.com/rjcb-commits/loan_default_predictor)**: LightGBM on public Lending Club data, served as an interactive Streamlit demonstration. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/loan-default)
+- **[NBA Player Archetypes](https://github.com/rjcb-commits/nba_archetypes)**: K-means groups NBA players into eight statistical profiles using per-100-possession and advanced stats. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/nba-archetypes)
+- **[Niner](https://github.com/rjcb-commits/niner_sudoku)**: native Android sudoku, Kotlin + Jetpack Compose. Zero ads, zero permissions, on-device only. &nbsp;·&nbsp; [Write-up](https://rayzjack.com/apps/niner)
 
 ### Stack
 
-Python · SQL · PySpark · pandas · LightGBM · XGBoost · scikit-learn · Tableau · Kotlin (Android)
+Python · SQL · PySpark · pandas · DuckDB · LightGBM · XGBoost · scikit-learn · Ollama / LLM guardrails · Tableau · Kotlin (Android)
 
 ### Contact
 
